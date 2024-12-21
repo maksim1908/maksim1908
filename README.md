@@ -3,9 +3,9 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim1908&layout=compact&theme=highcontrast"/>
    </a>
 </p>
-<p align="center">
+<!-- <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksim1908&theme=highcontrast" alt="GitHub Stats"/>
-</p>
+</p> -->
 <p align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
